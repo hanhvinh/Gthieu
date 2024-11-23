@@ -1,0 +1,38 @@
+<!Doctyde html>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<title> Bảng phân công nhiệm vụ và thành viên </title>
+</head>
+<body>
+	<div>
+	<h1> Tên thành viên </h1>
+	<p> - Nguyễn Thị Hạnh Vinh </p>
+	<p> - Ngô Hoàng Minh </p>
+	<p> - Hoàng Minh Huy  </p>
+	<p> - Võ Ngọc Bảo Ngân  </p>
+	<p> - Phạm Thị Thu Nga  </p>
+		<table border="1" style="width:auto; height: auto"> 
+		<tr> 
+		<th> Họ và tên </th>
+		<th> Nhiệm vụ </th>
+		<tr>
+		<td> Nguyễn Thị Hạnh Vinh </td>
+		<td> Trưởng nhóm: Xây dựng khung sườn </td>
+		<tr> 
+		<td> Ngô Hoàng Minh</td>
+		<td> Phó nhóm: Xây dựng phần POP,RAP, ROCK </td>
+		<tr>
+		<td> Hoàng Minh Huy </td>
+		<td> Xây dựng phần Nhạc CỔ ĐIỂN và JAZZ </td>
+		<tr>
+		<td> Võ Ngọc Bảo Ngân  </td>
+		<td> Lên ý tưởng,thiết kế trang web và xây dựng bảng thành viên   </td>
+		<tr>
+		<td> Phạm Thị Thu Nga  </td>
+		<td> Xây dựng bảng phân công nhiệm vụ </td>
+		</tr>
+	<h2> NỘI DUNG TRANG WEB</h2>
+	<p> Trang web đưa thông tin về các dòng nhạc phổ biến</p>
+
+</body>
